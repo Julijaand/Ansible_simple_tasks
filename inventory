@@ -1,0 +1,5 @@
+[sgt]
+JULIJA_ANSIBLE ansible_host=13.51.249.248
+
+[sgt:vars]
+ansible_user=ubuntu
